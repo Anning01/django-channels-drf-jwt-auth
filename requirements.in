@@ -1,0 +1,5 @@
+Django==3.1.5
+djangorestframework==3.12.2
+djangorestframework-jwt==1.11.0
+channels==3.0.3
+pip-tools==5.5.0
